@@ -1,1 +1,2 @@
 This is third version of my software in GitHub
+I am adding this to learn how git diff command works.
